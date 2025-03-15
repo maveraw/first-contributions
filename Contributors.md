@@ -2,7 +2,7 @@
 
 <!-- prettier-ignore-start -->
 
-- [Vaish](https://github.com/maveraw)
+- [Vaishali Rawat](https://github.com/maveraw)
 - [Just Checking]
 - [Pawan Yadav](https://github.com/pawanyy)
 - [Somnath Golui](https://github.com/somu-code)
