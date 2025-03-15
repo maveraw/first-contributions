@@ -1,6 +1,8 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
+
+- [Vaish](https://github.com/maveraw)
 - [Just Checking]
 - [Pawan Yadav](https://github.com/pawanyy)
 - [Somnath Golui](https://github.com/somu-code)
@@ -286,7 +288,7 @@
 - [Sanjayram](https://github.com/eminboydak)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Harshit Arora](https://github.com/harshit0755)
-[Odedmasala](https://github.com/odedmasala)
+  [Odedmasala](https://github.com/odedmasala)
 - [Rey Titus Nagar](https://github.com/gtnagar)
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
@@ -662,8 +664,7 @@
 - [Megan Moulos](https://github.com/meganmoulos/)
 - [Peter Hansteen](https://github.com/pitrh)
 - [Mourad]
-- [Thales Carlesso](https://github.com/ThalesIanMendes)
--[Sang2006](https://github.com/Sang2006)
+- [Thales Carlesso](https://github.com/ThalesIanMendes) -[Sang2006](https://github.com/Sang2006)
 - [Teju_1212](https://github.com/teju_1212)
 - [Aaron Geo Binoy](https://github.com/aarongeo1)
 - [Rakshit Gupta](https://github.com/rakshitgupta23)
@@ -781,5 +782,5 @@
 - [Salwa Mansour](https://github.com/Salwa-mansour)
 - [Sleepypeanut] (https://github.com/sleepypeanut)
 - [Ali Zain Aldeen] (https://github.com/ali-zain-aldeen)
-<!-- prettier-ignore-end -->
-Ulises Quiñonez
+  <!-- prettier-ignore-end -->
+  Ulises Quiñonez
